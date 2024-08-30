@@ -4,9 +4,9 @@ This project is a Social Media Dashboard that aggregates and displays feeds from
 
 ## Features
 
-- **Facebook Feed Integration**
-- **Twitter Feed Integration**
-- **LinkedIn Feed Integration**
+- Facebook Feed Integration
+- Twitter Feed Integration
+- LinkedIn Feed Integration
 
 ## *Facebook Feed Integration*
 
